@@ -1,2 +1,2 @@
 sample,bam
-SAMPLE_TEST,https://github.com/DIncalciLab/samurai-test-data/blob/master/sample_021.bam
+SAMPLE_TEST,'https://raw.githubusercontent.com/DIncalciLab/samurai-test-data/refs/heads/master/sample_021.bam'
